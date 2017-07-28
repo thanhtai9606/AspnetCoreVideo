@@ -104,5 +104,10 @@ namespace VideoCatalog.Controllers
 
             }
         }
+
+        public IActionResult demo()
+        {
+            return View();
+        }
     }
 }

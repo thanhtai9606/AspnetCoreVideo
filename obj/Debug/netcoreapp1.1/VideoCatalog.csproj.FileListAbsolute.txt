@@ -6,3 +6,11 @@
 /home/dunglt/CSharp/example/VideoCatalog/obj/Debug/netcoreapp1.1/VideoCatalog.AssemblyInfo.cs
 /home/dunglt/CSharp/example/VideoCatalog/obj/Debug/netcoreapp1.1/VideoCatalog.dll
 /home/dunglt/CSharp/example/VideoCatalog/obj/Debug/netcoreapp1.1/VideoCatalog.pdb
+/home/dunglt/CSharp/example/AspnetCoreVideo/bin/Debug/netcoreapp1.1/VideoCatalog.deps.json
+/home/dunglt/CSharp/example/AspnetCoreVideo/bin/Debug/netcoreapp1.1/VideoCatalog.runtimeconfig.json
+/home/dunglt/CSharp/example/AspnetCoreVideo/bin/Debug/netcoreapp1.1/VideoCatalog.runtimeconfig.dev.json
+/home/dunglt/CSharp/example/AspnetCoreVideo/bin/Debug/netcoreapp1.1/VideoCatalog.dll
+/home/dunglt/CSharp/example/AspnetCoreVideo/bin/Debug/netcoreapp1.1/VideoCatalog.pdb
+/home/dunglt/CSharp/example/AspnetCoreVideo/obj/Debug/netcoreapp1.1/VideoCatalog.AssemblyInfo.cs
+/home/dunglt/CSharp/example/AspnetCoreVideo/obj/Debug/netcoreapp1.1/VideoCatalog.dll
+/home/dunglt/CSharp/example/AspnetCoreVideo/obj/Debug/netcoreapp1.1/VideoCatalog.pdb

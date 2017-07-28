@@ -24,7 +24,7 @@ namespace VideoCatalog.Controllers
                             {
                                CategoryID = e.CategoryID,
                                CategoryName = e.CategoryName,
-                                ModifiedDate = e.ModifiedDate
+                                ModifiedDate = e.ModifiedDate                              
                                
 
                             };

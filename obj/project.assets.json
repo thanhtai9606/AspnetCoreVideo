@@ -10081,16 +10081,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dunglt/CSharp/example/VideoCatalog/VideoCatalog.csproj",
+      "projectUniqueName": "/home/dunglt/CSharp/example/AspnetCoreVideo/VideoCatalog.csproj",
       "projectName": "VideoCatalog",
-      "projectPath": "/home/dunglt/CSharp/example/VideoCatalog/VideoCatalog.csproj",
-      "outputPath": "/home/dunglt/CSharp/example/VideoCatalog/obj/",
+      "projectPath": "/home/dunglt/CSharp/example/AspnetCoreVideo/VideoCatalog.csproj",
+      "outputPath": "/home/dunglt/CSharp/example/AspnetCoreVideo/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/VideoCatalog.dll": "/home/dunglt/CSharp/example/VideoCatalog/bin/placeholder/netcoreapp1.1/VideoCatalog.dll"
+        "lib/netcoreapp1.1/VideoCatalog.dll": "/home/dunglt/CSharp/example/AspnetCoreVideo/bin/placeholder/netcoreapp1.1/VideoCatalog.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
