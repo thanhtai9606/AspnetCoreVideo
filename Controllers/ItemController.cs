@@ -105,7 +105,7 @@ namespace VideoCatalog.Controllers
             }
         }
 
-        public IActionResult demox()
+        public IActionResult demoxxx()
         {
             return View();
         }
