@@ -105,7 +105,7 @@ namespace VideoCatalog.Controllers
             }
         }
 
-        public IActionResult demoxxx()
+        public IActionResult gitDemo()
         {
             return View();
         }
