@@ -105,7 +105,11 @@ namespace VideoCatalog.Controllers
             }
         }
 
+<<<<<<< HEAD
         public IActionResult gitDemo()
+=======
+        public IActionResult demo()
+>>>>>>> parent of 517148b... Update Item Controller 2
         {
             return View();
         }
