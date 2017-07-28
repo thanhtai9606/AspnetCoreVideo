@@ -106,10 +106,14 @@ namespace VideoCatalog.Controllers
         }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
         public IActionResult gitDemo()
 =======
         public IActionResult demo()
 >>>>>>> parent of 517148b... Update Item Controller 2
+=======
+        public IActionResult demox()
+>>>>>>> parent of 73a3759... ReUpate
         {
             return View();
         }
